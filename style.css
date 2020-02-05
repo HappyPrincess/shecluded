@@ -6,7 +6,7 @@
 }
 
 nav {
-    background: url('../images/logo.518349c1.png') no-repeat;
+    background: url('./logo.518349c1.png') no-repeat;
     background-size: 5%;
     background-position-x: 5%;
     display: flex;
